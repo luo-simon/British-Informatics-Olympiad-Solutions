@@ -1,6 +1,6 @@
 # British Informatics Olympiad Solutions
 
-Solutions to BIO past papers (*Written in Python3/C++*), as practice for BIO 2020 & 2021.
+Solutions to BIO past papers (*written in Python3/C++*), as practice for BIO 2020 & 2021.
 
 ---
 
